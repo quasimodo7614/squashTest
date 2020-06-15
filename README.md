@@ -1,0 +1,2 @@
+# squashTest
+testForSquashCommit
